@@ -1,0 +1,5 @@
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_7\Ylesanne_7\bin\Debug\Ylesanne_7.exe.config
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_7\Ylesanne_7\bin\Debug\Ylesanne_7.exe
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_7\Ylesanne_7\bin\Debug\Ylesanne_7.pdb
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_7\Ylesanne_7\obj\Debug\Ylesanne_7.exe
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_7\Ylesanne_7\obj\Debug\Ylesanne_7.pdb

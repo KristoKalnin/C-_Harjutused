@@ -1,0 +1,6 @@
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_11\Ylesanne_11\bin\Debug\Ylesanne_11.exe.config
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_11\Ylesanne_11\obj\Debug\Ylesanne_11.csprojResolveAssemblyReference.cache
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_11\Ylesanne_11\bin\Debug\Ylesanne_11.exe
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_11\Ylesanne_11\bin\Debug\Ylesanne_11.pdb
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_11\Ylesanne_11\obj\Debug\Ylesanne_11.exe
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_11\Ylesanne_11\obj\Debug\Ylesanne_11.pdb

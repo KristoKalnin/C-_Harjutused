@@ -1,0 +1,6 @@
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_10\Ylesanne_10\bin\Debug\Ylesanne_10.exe.config
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_10\Ylesanne_10\bin\Debug\Ylesanne_10.exe
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_10\Ylesanne_10\bin\Debug\Ylesanne_10.pdb
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_10\Ylesanne_10\obj\Debug\Ylesanne_10.csprojResolveAssemblyReference.cache
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_10\Ylesanne_10\obj\Debug\Ylesanne_10.exe
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_10\Ylesanne_10\obj\Debug\Ylesanne_10.pdb

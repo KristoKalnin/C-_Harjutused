@@ -1,0 +1,6 @@
+c:\users\kristo\documents\visual studio 2015\Projects\Ylesanne_1_Hello_World\Ylesanne_1_Hello_World\bin\Debug\Ylesanne_1_Hello_World.exe.config
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_1_Hello_World\Ylesanne_1_Hello_World\bin\Debug\Ylesanne_1_Hello_World.exe
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_1_Hello_World\Ylesanne_1_Hello_World\bin\Debug\Ylesanne_1_Hello_World.pdb
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_1_Hello_World\Ylesanne_1_Hello_World\obj\Debug\Ylesanne_1_Hello_World.csprojResolveAssemblyReference.cache
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_1_Hello_World\Ylesanne_1_Hello_World\obj\Debug\Ylesanne_1_Hello_World.exe
+C:\Users\Kristo\Documents\Visual Studio 2015\Projects\Ylesanne_1_Hello_World\Ylesanne_1_Hello_World\obj\Debug\Ylesanne_1_Hello_World.pdb
